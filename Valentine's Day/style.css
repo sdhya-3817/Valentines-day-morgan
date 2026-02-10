@@ -131,7 +131,7 @@ p {
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
-    bottom: 120px;
+    bottom: 100px;
 }
 
 .no-wrapper{
@@ -178,4 +178,5 @@ display: inline-block;
     font-weight: bold;
 
 }
+
 
