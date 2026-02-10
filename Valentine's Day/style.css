@@ -127,7 +127,7 @@ p {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 30px;
+    gap: 10px;
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
@@ -176,4 +176,5 @@ display: inline-block;
     text-shadow: 0 0 8px #fffbe6, 0 0 2px #fffbe6;
     margin: 0 auto 0 auto;
     font-weight: bold;
+
 }
