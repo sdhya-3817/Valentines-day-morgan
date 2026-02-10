@@ -76,9 +76,10 @@ yesBtn.addEventListener("click", () => {
     title.style.display = "block";
     letterText.style.display = "block";
     letterText.textContent = "You said yes!";
-    kirbyImg.src = "Valentine's Day/kirby2.GIF";
+    kirbyImg.src = "Valentine's Day/kirby2.gif";
     document.querySelector(".letter-window").classList.add("final");
     buttons.style.display = "none";
     finalText.style.display = "block";
 
 });
+
